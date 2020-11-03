@@ -2,7 +2,7 @@
 
  > ⚠️ <span style="color: red;">__*Disclaimer !!*__</span> Everything is not complete yet ! I'm also a beginner. Sometimes you will see bullshit. 
 ## CheatSheet Java Edition
-### [Java Fundamentals (Most part FR)](https://github.com/JDucellier/CheatSheet/blob/Java/)
+### [Java Fundamentals (Most part FR)](https://github.com/JDucellier/CheatSheet/tree/Java/)
 ### Test
  - [JUnit](https://github.com/JDucellier/CheatSheet/blob/Java/Unit%20test/CS_Junit.md)
  - [Mockito](https://github.com/JDucellier/CheatSheet/blob/Java/Unit%20test/CS_Mockito.md)
