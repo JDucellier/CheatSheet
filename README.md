@@ -21,3 +21,6 @@
  - [Mockito](https://github.com/JDucellier/CheatSheet/blob/Java/Unit%20test/CS_Mockito.md)
 ### Bonus
  - [Eclipse Tips](https://github.com/JDucellier/CheatSheet/blob/Java/CS_Eclipse.md)
+ 
+## CheatSheet JavaScript Edition
+### JavaScript Fundamentals (Most part EN)
