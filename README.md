@@ -10,4 +10,4 @@
  - [Eclipse Tips](https://github.com/JDucellier/CheatSheet/blob/Java/CS_Eclipse.md)
  
 ## CheatSheet JavaScript Edition
-### [JavaScript Fundamentals (Most part EN)](https://github.com/JDucellier/CheatSheet/tree/JavaScript)
+### [JavaScript Fundamentals (Most part EN)](https://github.com/JDucellier/CheatSheet/tree/JavaSrcipt)
