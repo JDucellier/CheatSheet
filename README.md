@@ -1,26 +1,17 @@
-# CheatSheet
-
- > ⚠️ <span style="color: red;">__*Disclaimer !!*__</span> Everything is not complete yet ! I'm also a beginner. Sometimes you will see bullshit. 
-## CheatSheet Java Edition
-### Java Fundamentals (Most part FR)
- - [Definition](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/00.Def.md)
- - [Variables](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/01.Variables.md)
- - [Loop](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/02.Boucles.md)
- - [Heritages](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/03.Heritages.md)
- - [Interface](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/04.Interface.md)
- - [List](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/05.List.md)
- - [Comparator](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/06.Comparator.md)
- - [Set](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/07.set.md)
- - [Map](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/08.Map.md)
- - [Exception](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/09.Exception.md)
- - [Date](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/10.date.md)
- - [Json Jackson](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/11.jsonJackson.md)
- - [Filter](https://github.com/JDucellier/CheatSheet/blob/Java/Chapter/12.Filter.md)
-### Test
- - [JUnit](https://github.com/JDucellier/CheatSheet/blob/Java/Unit%20test/CS_Junit.md)
- - [Mockito](https://github.com/JDucellier/CheatSheet/blob/Java/Unit%20test/CS_Mockito.md)
-### Bonus
- - [Eclipse Tips](https://github.com/JDucellier/CheatSheet/blob/Java/CS_Eclipse.md)
- 
-## CheatSheet JavaScript Edition
-### JavaScript Fundamentals (Most part EN)
+# CheatSheet JavaScript Edition
+## JavaScript Fundamentals (Most part EN)
+- [Declare variable](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/01.Variables.md)
+- [Data Types](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/02.DataTypes.md)
+- [Types Conversion](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/03.TypeConversion.md)
+- [Numbers & The Math Object](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/04.Number%26MathObject.md)
+- [String Methods & Concatenation](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/05.StringMethods%26Concatenation.md)
+- [Template Literals](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/06.TemplateLiterals.md)
+- [Arrays & Arrays Methods](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/07.Arrays%26ArraysMethods.md)
+- [Object Literals](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/08.ObjectLiterals.md)
+- [Dates & Times](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/09.Date%26Times.md)
+- [If statement & Comparison Operators](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/10.IfStatement%26ComparisonOperators.md)
+- [Switch](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/11.Switch.md)
+- [Function Declarations & Expressions](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/12.FunctionDeclarations%26Expressions.md)
+- [General Loops](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/13.Loop.md)
+- [Windows Methods / Objects / Properties](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/14.WindowsMethods%2CObjects%2CProperties.md)
+- [Block Scope with let & const](https://github.com/JDucellier/CheatSheet/blob/JavaSrcipt/Chapter/15.BlockScope.md)
