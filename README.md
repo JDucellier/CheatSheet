@@ -1,27 +1,11 @@
-# CheatSheet
+# CheatSheet TypeScript Edition
 
-> ⚠️ <span style="color: red;">**_Disclaimer !!_**</span> Everything is not complete yet ! I'm also a beginner. Sometimes you will see bullshit, you can report and i will correct it ! :)
+## [TypeScript Fundamentals (Most part EN)](https://github.com/JDucellier/CheatSheet/tree/TypeScript)
 
-## CheatSheet Java Edition
+- [Launch And Basic Setup for TypeScript](https://github.com/JDucellier/CheatSheet/blob/TypeScript/chapter/00.LaucheTS.md)
+- [Variables](https://github.com/JDucellier/CheatSheet/blob/TypeScript/chapter/01.Variables.md)
 
-### [Java Fundamentals (Most part FR)](https://github.com/JDucellier/CheatSheet/tree/Java/)
-
-### Test
-
-- [JUnit](https://github.com/JDucellier/CheatSheet/blob/Java/Unit%20test/CS_Junit.md)
-- [Mockito](https://github.com/JDucellier/CheatSheet/blob/Java/Unit%20test/CS_Mockito.md)
-
-### Bonus
-
-- [Eclipse Tips](https://github.com/JDucellier/CheatSheet/blob/Java/CS_Eclipse.md)
-
-## CheatSheet JavaScript Edition
-
-### [JavaScript Fundamentals (Most part EN)](https://github.com/JDucellier/CheatSheet/tree/JavaSrcipt)
-
-## CheatSheet TypeScript Edition
-
-### [TypeScript Fundamentals (Most part EN)](https://github.com/JDucellier/CheatSheet/tree/TypeScript)
+## Bonus
 
 ### [Awesome EBooks](https://basarat.gitbook.io/typescript)
 
