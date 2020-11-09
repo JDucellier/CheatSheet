@@ -18,3 +18,8 @@
 ## CheatSheet JavaScript Edition
 
 ### [JavaScript Fundamentals (Most part EN)](https://github.com/JDucellier/CheatSheet/tree/JavaSrcipt)
+
+## CheatSheet Typescript Edition
+
+### [Awesome EBooks](https://basarat.gitbook.io/typescript)
+> Writed by _Bassarat Ali Syed_ Open Sourcd ressources !
