@@ -21,5 +21,8 @@
 
 ## CheatSheet Typescript Edition
 
+### [TypeScript Fundamentals (Most part EN)](https://github.com/JDucellier/CheatSheet/tree/TypeScript)
+
 ### [Awesome EBooks](https://basarat.gitbook.io/typescript)
+
 > Writed by _Bassarat Ali Syed_ Open Sourcd ressources !
